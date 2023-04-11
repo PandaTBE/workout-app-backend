@@ -1,0 +1,17 @@
+{
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "useTabs": false,
+    "editor.formatOnSave": true,
+    "semi": true,
+    "singleQuote": true,
+    "importOrder": [
+        "<THIRD_PARTY_MODULES>",
+        "/routes/",
+        "/middleware/",
+        "^../(.*)",
+        "^./(.*)"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}
